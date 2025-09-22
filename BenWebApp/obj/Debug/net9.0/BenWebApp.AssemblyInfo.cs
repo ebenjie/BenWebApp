@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BenWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4185970c0cda4164218daa512859b325e1d22a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BenWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BenWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

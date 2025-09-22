@@ -458,3 +458,4 @@ C:\Users\Admin\source\repos\BenWebApp\BenWebApp\BenWebApp\obj\Debug\net9.0\BenWe
 C:\Users\Admin\source\repos\BenWebApp\BenWebApp\BenWebApp\obj\Debug\net9.0\BenWebApp.genruntimeconfig.cache
 C:\Users\Admin\source\repos\BenWebApp\BenWebApp\BenWebApp\obj\Debug\net9.0\ref\BenWebApp.dll
 C:\Users\Admin\source\repos\BenWebApp\BenWebApp\BenWebApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\me\source\repos\BenWebApp\BenWebApp\obj\Debug\net9.0\BenWebApp.sourcelink.json

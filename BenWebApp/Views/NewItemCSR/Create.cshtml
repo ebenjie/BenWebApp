@@ -1,0 +1,66 @@
+﻿@model BenWebApp.Models.NewItemCSRModel
+
+<div class="container">
+	<h2>Add New Item - CSR</h2>
+
+	<form asp-action="Create" asp-controller="NewItemPharma" method="post">
+		<div>
+			<label asp-for="ItemCode"></label>
+			<input asp-for="ItemCode" class="form-control" readonly />
+
+		</div>
+		<div>
+			<label asp-for="Description"></label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="ItemCategory"></label>
+			<input asp-for="ItemCategory" class="form-control" />
+			<span asp-validation-for="ItemCategory" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="Conversion"></label>
+			<input asp-for="Conversion" class="form-control" />
+			<span asp-validation-for="Conversion" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="UnitCost"></label>
+			<input asp-for="UnitCost" class="form-control" />
+			<span asp-validation-for="UnitCost" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="SmallUnit"></label>
+			<input asp-for="SmallUnit" class="form-control" />
+			<span asp-validation-for="SmallUnit" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="BigUnit"></label>
+			<input asp-for="BigUnit" class="form-control" />
+		</div>
+		<div>
+			<label asp-for="MarkUp"></label>
+			<input asp-for="MarkUp" class="form-control" />
+			<span asp-validation-for="MarkUp" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="SellingPrice"></label>
+			<input asp-for="SellingPrice" class="form-control" />
+			<span asp-validation-for="SellingPrice" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="RequestedBy"></label>
+			<input asp-for="RequestedBy" class="form-control" />
+		</div>
+		<!-- Hidden RequestDate -->
+		<input type="hidden" asp-for="RequestDate" />
+		<button type="submit" class="btn btn-primary"> Submit</button>
+
+	</form>
+
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BenWebApp.Migrations
 {
-    [DbContext(typeof(NewCodePharmaContext))]
+    [DbContext(typeof(DataContext))]
     partial class NewCodePharmaContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

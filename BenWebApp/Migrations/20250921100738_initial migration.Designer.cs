@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BenWebApp.Migrations
 {
-    [DbContext(typeof(NewCodePharmaContext))]
+    [DbContext(typeof(DataContext))]
     [Migration("20250921100738_initial migration")]
     partial class initialmigration
     {

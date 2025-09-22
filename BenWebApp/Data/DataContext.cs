@@ -3,12 +3,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BenWebApp.Data
 {
-    public class NewCodePharmaContext: DbContext
+    public class DataContext: DbContext
     {
-        public NewCodePharmaContext(DbContextOptions<NewCodePharmaContext> options) : base(options) { }
+        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
         public DbSet<NewItemPharmaModel> NewItemPharma {  get; set; }
         public DbSet<CodePerDeptModel> CodePerDepts { get; set; }
+        public DbSet<NewItemCSRModel> NewItemCSR { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
