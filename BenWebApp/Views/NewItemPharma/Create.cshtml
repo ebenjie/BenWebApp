@@ -1,0 +1,51 @@
+﻿@model BenWebApp.Models.NewItemPharmaModel
+
+<div class="container">
+	<h2>Add New Item - Pharma</h2>
+
+	<form asp-action="Create" asp-controller="NewItemPharma" method="post">
+		<div>
+			<label asp-for="ItemCode"></label>
+			<input asp-for="ItemCode" class="form-control" readonly />
+
+		</div>
+		<div>
+			<label asp-for="Description"></label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="GenericName"></label>
+			<input asp-for="GenericName" class="form-control"/>
+			<span asp-validation-for="GenericName" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="SmallUnit"></label>
+			<input asp-for="SmallUnit" class="form-control" />
+			<span asp-validation-for="SmallUnit" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="BigUnit"></label>
+			<input asp-for="BigUnit" class="form-control" />
+		</div>
+		<div>
+			<label asp-for="SellingPrice"></label>
+			<input asp-for="SellingPrice" class="form-control" />
+			<span asp-validation-for="SellingPrice" class="text-danger"></span>
+		</div>
+		<div>
+			<label asp-for="RequestedBy"></label>
+			<input asp-for="RequestedBy" class="form-control" />
+		</div>
+		<!-- Hidden RequestDate -->
+		<input type="hidden" asp-for="RequestDate" />
+		<button type="submit" class="btn btn-primary"> Submit</button>
+
+	</form>
+
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
