@@ -42,7 +42,7 @@ namespace BenWebApp.Data
             await _context.SaveChangesAsync();
 
             // Notify Telegram
-            await SendTelegramMessageAsync(model, "Added");
+            await SendTelegramMessageAsync(model);
         }
 
         // ✅ Get all OPEN items
@@ -70,7 +70,7 @@ namespace BenWebApp.Data
             _context.NewItemPharma.Update(item);
             await _context.SaveChangesAsync();
 
-            await SendTelegramMessageAsync(item, "Closed");
+            await SendTelegramMessageAsync(item);
             return true;
         }
 
@@ -87,14 +87,14 @@ namespace BenWebApp.Data
         }
 
         // ✅ Flexible Telegram notification
-        public async Task SendTelegramMessageAsync(NewItemPharmaModel item, string action)
+        public async Task SendTelegramMessageAsync(NewItemPharmaModel item)
         {
             try
             {
                 var botToken = _configuration["Telegram:BotToken"];
                 var chatId = _configuration["Telegram:ChatId"];
 
-                var message = $"[Pharma Item {action}]\n\n" +
+                var message = $"[Pharma Item Code Request]\n\n" +
                               $"ItemCode: {item.ItemCode}\n" +
                               $"Description: {item.Description}\n" +
                               $"Generic: {item.GenericName}\n" +
@@ -102,8 +102,8 @@ namespace BenWebApp.Data
                               $"BigUnit: {item.BigUnit}\n" +
                               $"Price: {item.SellingPrice}\n" +
                               $"Requested By: {item.RequestedBy}\n" +
-                              $"Date: {item.RequestDate:MM-dd-yyyy}\n" +
-                              $"Status: {item.IT_Status}";
+                              $"Date: {item.RequestDate:MM-dd-yyyy}";
+                              //$"Status: {item.IT_Status}";
 
                 using var client = new HttpClient();
                 var url = $"https://api.telegram.org/bot{botToken}/sendMessage" +

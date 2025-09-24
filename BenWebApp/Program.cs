@@ -1,4 +1,5 @@
 using BenWebApp.Data;
+using BenWebApp.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,10 @@ builder.Services.AddControllersWithViews();
 //add this..for sql connection.
 builder.Services.AddDbContext<DataContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
+
+builder.Services.AddScoped<IDataService<NewItemPharmaModel>, NewPharmaService>();
+builder.Services.AddScoped<IDataService<NewItemCSRModel>, NewCSRService>(); // if CSR also exists
+
 
 //inject session in layout
 builder.Services.AddHttpContextAccessor();

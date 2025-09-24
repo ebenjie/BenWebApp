@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BenWebApp.Models
 {
+    [Table("NewItemCSR")]
     public class NewItemCSRModel
     {
         public int Id { get; set; }

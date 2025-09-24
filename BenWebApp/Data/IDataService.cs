@@ -10,6 +10,6 @@ namespace BenWebApp.Data
         Task<long> GetLatestCode();
         Task<T?> GetByIdAsync(int id);
         Task<bool> CloseItemAsync(int id);
-        Task SendTelegramMessageAsync(T model, string action);
+        Task SendTelegramMessageAsync(T model);
     }
 }

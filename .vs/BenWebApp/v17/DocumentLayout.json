@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\BenWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\migrations\\20250923152131_addnewitemcsrtable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\migrations\\20250923152131_addnewitemcsrtable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\data\\newpharmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\data\\newpharmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\data\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,48 +31,12 @@
       "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\data\\newcsrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\controllers\\newitempharmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\controllers\\newitempharmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\controllers\\newitemcsrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\controllers\\newitemcsrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\newitemcsr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\newitemcsr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\newitemcsr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\newitemcsr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\newitempharma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\newitempharma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\newitempharma\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\newitempharma\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\models\\codeperdeptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\models\\codeperdeptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\models\\newitemcsrmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\models\\newitemcsrmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|solutionrelative:benwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC300DF3-F05B-419E-8AA1-6E332AFF49E8}|BenWebApp\\BenWebApp.csproj|c:\\users\\me\\source\\repos\\benwebapp\\benwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,175 +63,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewPharmaService.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewPharmaService.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Data\\NewPharmaService.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewPharmaService.cs",
-              "RelativeToolTip": "BenWebApp\\Data\\NewPharmaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAHAAAAAAAAAA==",
+              "Title": "20250923152131_AddNewItemCSRTable2.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Migrations\\20250923152131_AddNewItemCSRTable2.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Migrations\\20250923152131_AddNewItemCSRTable2.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Migrations\\20250923152131_AddNewItemCSRTable2.cs",
+              "RelativeToolTip": "BenWebApp\\Migrations\\20250923152131_AddNewItemCSRTable2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:36:15.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewCSRService.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewCSRService.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Data\\NewCSRService.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewCSRService.cs",
-              "RelativeToolTip": "BenWebApp\\Data\\NewCSRService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:58:51.955Z",
+              "WhenOpened": "2025-09-23T15:21:33.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BenWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\appsettings.json",
+              "RelativeToolTip": "BenWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T15:10:28.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewCSRService.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewCSRService.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Data\\NewCSRService.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewCSRService.cs",
+              "RelativeToolTip": "BenWebApp\\Data\\NewCSRService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:52:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "BenWebApp\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:54:23.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Program.cs",
+              "RelativeToolTip": "BenWebApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:57:38.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IDataService.cs",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\IDataService.cs",
               "RelativeDocumentMoniker": "BenWebApp\\Data\\IDataService.cs",
               "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\IDataService.cs",
               "RelativeToolTip": "BenWebApp\\Data\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:08:03.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewItemPharmaController.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\NewItemPharmaController.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Controllers\\NewItemPharmaController.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\NewItemPharmaController.cs",
-              "RelativeToolTip": "BenWebApp\\Controllers\\NewItemPharmaController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:48:55.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:57:11.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewItemCSRController.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\NewItemCSRController.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Controllers\\NewItemCSRController.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\NewItemCSRController.cs",
-              "RelativeToolTip": "BenWebApp\\Controllers\\NewItemCSRController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:01:12.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemCSR\\Create.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\NewItemCSR\\Create.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemCSR\\Create.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\NewItemCSR\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:33:51.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T13:54:24.603Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemCSR\\Index.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\NewItemCSR\\Index.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemCSR\\Index.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\NewItemCSR\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:43:18.121Z",
-              "EditorCaption": ""
+              "Title": "NewItemCSRModel.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Models\\NewItemCSRModel.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Models\\NewItemCSRModel.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Models\\NewItemCSRModel.cs",
+              "RelativeToolTip": "BenWebApp\\Models\\NewItemCSRModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:50:13.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewPharmaService.cs",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewPharmaService.cs",
+              "RelativeDocumentMoniker": "BenWebApp\\Data\\NewPharmaService.cs",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Data\\NewPharmaService.cs",
+              "RelativeToolTip": "BenWebApp\\Data\\NewPharmaService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAApwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:36:15.37Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemPharma\\Index.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\NewItemPharma\\Index.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemPharma\\Index.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\NewItemPharma\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:42:50.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CodePerDeptModel.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Models\\CodePerDeptModel.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Models\\CodePerDeptModel.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Models\\CodePerDeptModel.cs",
-              "RelativeToolTip": "BenWebApp\\Models\\CodePerDeptModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:21:41.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemPharma\\Create.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\NewItemPharma\\Create.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\NewItemPharma\\Create.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\NewItemPharma\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T13:06:53.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BenWebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BenWebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T15:10:20.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BenWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BenWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T14:39:15.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "BenWebApp\\Views\\Home\\Privacy.cshtml",
@@ -259,12 +167,11 @@
               "RelativeToolTip": "BenWebApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T14:46:20.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T14:46:20.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "BenWebApp\\Views\\Account\\Login.cshtml",
@@ -272,12 +179,11 @@
               "RelativeToolTip": "BenWebApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T13:58:08.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T13:58:08.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BenWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -285,12 +191,11 @@
               "RelativeToolTip": "BenWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T13:29:50.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T13:29:50.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\BenWebApp\\BenWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BenWebApp\\wwwroot\\css\\site.css",
@@ -298,8 +203,7 @@
               "RelativeToolTip": "BenWebApp\\wwwroot\\css\\site.css",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-21T13:34:13.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T13:34:13.896Z"
             }
           ]
         }
